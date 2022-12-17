@@ -1,6 +1,6 @@
 ﻿namespace YieldPractice;
 
-public class Example_Yield
+public class Example_YieldFlow
 {
     static readonly string Padding = new string(' ', 30);
 
